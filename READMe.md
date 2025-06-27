@@ -6,3 +6,9 @@
 
 
 ## Salvando as alterações no Git
+
+
+* uso do comando git restore 
+
+
+* git push
