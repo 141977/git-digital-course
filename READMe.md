@@ -13,3 +13,4 @@
 
 * git push
 * Comando git pull 
+*Comando Git Fetch
